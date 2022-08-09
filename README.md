@@ -16,6 +16,7 @@ data myopia.csv explored and cleaned
 using PCA dimensionality reduction the features have been reduced from 14 to 10 features.
 
 ![](Images/tsne_scatter.png)
+
 No distinct clusters
 
 ![](Images/elbow_curve.png)
